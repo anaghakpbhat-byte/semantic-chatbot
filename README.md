@@ -29,4 +29,4 @@ Code files will be added in future updates.
 ---
 
 ## 💡 Author
-**Anantha K P**
+**Anagha K P Bhat**
